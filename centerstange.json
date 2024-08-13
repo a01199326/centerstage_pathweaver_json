@@ -1,9 +1,9 @@
 {
    "game": "centerstage",
-   "field-image": "centerstageField.png",
+   "field-image": "field_image.png",
    "field-corners": {
-      "top-left": [0, 0],
-      "bottom-right": [5000, 5000]
+      "top-left": [50, 50],
+      "bottom-right": [2050, 2050]
    },
    "field-size": [3.66, 3.66],
    "field-unit": "meters"
